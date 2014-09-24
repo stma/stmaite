@@ -6,7 +6,7 @@
     "name": "Matyas Steiner",
     "email": "steiner.matyas@gmail.com"
   },
-  "main": "index.js",
+  "main": "js/index.js",
   "scripts": {
     "start": "node js/index.js"
   },
