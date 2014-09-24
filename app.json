@@ -1,0 +1,9 @@
+{
+    "name": "stmaite webapp",
+    "description": "StMa's homepage mainly for introducing himself.",
+    "repository": "https://github.com/stma/stmaite",
+    "keywords": [
+        "homepage",
+        "self introducing"
+    ]
+}
