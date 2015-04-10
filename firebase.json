@@ -1,0 +1,15 @@
+{
+  "firebase": "brilliant-torch-2895",
+  "public": "deploy",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ],
+  "rewrites": [
+    {
+      "source": "**/*.html",
+      "destination": "/index.html"
+    }
+  ]
+}
